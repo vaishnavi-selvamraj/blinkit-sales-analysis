@@ -26,3 +26,9 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 # Sample Dashboard Image
 
 ![image alt](https://github.com/vaishnavi-selvamraj/blinkit-sales-analysis/blob/main/Screenshot%20(66).png?raw=true)
+
+# Tools used
+
+1. Excel (Data Cleaning)
+2. SQL (Query)
+3. Power BI (Visualization)
