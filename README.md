@@ -1,4 +1,4 @@
-# Project heading
+# Project Heading
 
 blinkit Sales Analysis
 
@@ -13,7 +13,7 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 3. Number of items: The total count of different items sold.
 4. Average Rating: The average customer rating for items sold.
 
-# Chart's Reqiurements
+# Chart's Requirements
 
 1. Total Sales by Fat Content
 2. Total Sales by Item Type
