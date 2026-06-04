@@ -1,6 +1,6 @@
 # Project Heading
 
-blinkit Sales Analysis
+blinkit Sale Analysis
 
 # Business Requirement
 
