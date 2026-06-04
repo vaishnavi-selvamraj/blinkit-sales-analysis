@@ -22,3 +22,7 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 5. Sales by Outlet Size
 6. Sales bu Outlet Location
 7. All Metrics by Outlet Type
+
+# Sample Dashboard Image
+
+https://github.com/vaishnavi-selvamraj/blinkit-sales-analysis/blob/main/Screenshot%20(66).png?raw=true
