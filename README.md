@@ -25,4 +25,4 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 
 # Sample Dashboard Image
 
-https://github.com/vaishnavi-selvamraj/blinkit-sales-analysis/blob/main/Screenshot%20(66).png?raw=true
+![image alt](https://github.com/vaishnavi-selvamraj/blinkit-sales-analysis/blob/main/Screenshot%20(66).png?raw=true)
